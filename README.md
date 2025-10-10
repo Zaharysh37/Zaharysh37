@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Zaharysh37
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, embedded technologies and FPGA
 - 🌱 I’m currently learning:
 -  Java + Spring,
 -  DataBase,
 -  GitHub,
--  Assambler,
--  OperationSystems and System Programming
+-  Networks,
+-  FPGA
 - 💞️ I’m looking to collaborate on C/C++
 - 📫 How to reach me https://t.me/zahar_rimashewskiy
 - ⚡ Fun fact: read Dostoevsky's Crime and Punishment
