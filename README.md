@@ -1,16 +1,12 @@
-- 👋 Hi, I’m @Zaharysh37
-- 👀 I’m interested in programming, embedded technologies and FPGA
-- 🌱 I’m currently learning:
--  Java + Spring,
--  DataBase,
--  GitHub,
--  Networks,
--  FPGA
-- 💞️ I’m looking to collaborate on C/C++
-- 📫 How to reach me https://t.me/zahar_rimashewskiy
-- ⚡ Fun fact: read Dostoevsky's Crime and Punishment
+### 👋 Hi, I'm Zakhar
 
-<!---
-Zaharysh37/Zaharysh37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ☕ Java backend developer — Spring Boot, microservices, PostgreSQL, Kafka
+- 💼 1+ year of commercial experience building distributed, fault-tolerant systems
+- 🎓 Final-year student at BSUIR, Faculty of Computer Systems and Networks
+- 🔬 Long-standing interest in the low level: embedded, FPGA, C/C++
+- 🌱 Currently digging into: AWS, distributed systems design, TDD
+- 💞️ Open to collaborating on C/C++ and embedded projects
+- 📫 Reach me: [Telegram](https://t.me/zahar_rimashewskiy) · [LinkedIn](https://www.linkedin.com/in/zakharrimasheuski) · zaxarrim@gmail.com
+- ⚡ Fun fact: I like reading Dostoevsky — turns out debugging and *Crime and Punishment* have a lot in common
+
+**Stack:** Java · Spring Boot · Spring Cloud · Hibernate · PostgreSQL · Redis · Kafka · Elasticsearch · Docker · Kubernetes · JUnit 5 · Testcontainers
